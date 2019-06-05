@@ -5,7 +5,7 @@ These projects which I have worked on over the past few years fall into two main
 2. Visualization of physical and mathematical phenomena
 
 
-1. Machine Learning and Optimization Algorithms:
+Machine Learning and Optimization Algorithms:
 Overview:
 This section is a conglomerate of machine learning and optimization projects I have worked on over the past few years. 
 Which consists of both side projects and research projects, which often complemented each other. 
