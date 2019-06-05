@@ -1,8 +1,9 @@
 # Portfolio
 
 These projects which I have worked on over the past few years fall into two main interests of mine:
-1. machine learning and optimization algorithms
-2. visualization of physical and mathematical phenomena
+1. Machine learning and optimization algorithms
+2. Visualization of physical and mathematical phenomena
+
 
 1. Machine Learning and Optimization Algorithms:
 Overview:
