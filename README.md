@@ -1,4 +1,4 @@
-# Portfolio
+# Benjamin Jacob Bodner - Portfolio
 
 These projects which I have worked on over the past few years fall into two main interests of mine:
 1. Machine learning and optimization algorithms
