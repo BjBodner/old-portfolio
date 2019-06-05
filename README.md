@@ -6,7 +6,9 @@ These projects which I have worked on over the past few years fall into two main
 
 
 Machine Learning and Optimization Algorithms:
+
 Overview:
+
 This section is a conglomerate of machine learning and optimization projects I have worked on over the past few years. 
 Which consists of both side projects and research projects, which often complemented each other. 
 They combine several custom made machine learning algorithms such as  DNNs, CNN, and Complex networks (Neural networks
