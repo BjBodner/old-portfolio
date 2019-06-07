@@ -5,7 +5,7 @@ These are projects which I have worked on over the past few years, which fall in
 2. Visualization of physical and mathematical phenomena
 
 
-Machine Learning and Optimization Algorithms:
+# Machine Learning and Optimization Algorithms:
 
 Overview:
 
@@ -47,7 +47,23 @@ List of Machine learning and optimization projects:
 13. PSO implementation for different problems
 14. Training a DNN on mnist with Pinball
 15. Trio Optimization algorithm
-16. Two Mode with visualization
 
 
 
+# Visualization Projects:
+
+Overview:
+These visualization project are mostly focused on phenomena in physics, where the equations are well defined but their visual representation is not always immediatelly obvious (especially when learning them for the first time). These project were mostly made while I was studying these topics, in my undergraduate courses. Though they were initially made in an attempt to understand the learned material in a more intuitive way, before my course examinations, they have been very useful in teaching these topics to students in private tutoring. The topics span a few topics in physics such as visualizing spherical harmonics, phonon dispersions relations, complex functions/domains and more. I hope you enjoy these project and that they will help create more intuitive understanding of the topics they focus on.
+
+
+List of Machine learning and optimization projects:
+1. 2D Surface Waves
+2. Lagrangian Visualization
+3. Metal_Superconductor_Tunnel_Junction
+4. Nano-Cables-Double_Check_This
+5. Phonon_Dispersion_relation
+6. Spherical_Harmonics_Generator
+7. Spin 0.5
+8. Visualizing_Complex_Functions_and_Domains
+9. Visualizing_Gravitational_Waves
+10. Visualizing_Slime_Mold
