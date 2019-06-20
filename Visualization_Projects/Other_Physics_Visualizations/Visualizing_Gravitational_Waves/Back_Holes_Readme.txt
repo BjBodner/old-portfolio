@@ -1,3 +1,6 @@
+# Visualizing Gravitational Waves
+
+
 This project was made during my last year as an undergraduate student.
 I made it after learning the mathematics of gravitational waves during my first course on general relativity.
 The aim of this project was to see the stretching effects that these kinds of waves have of the spacetime,
