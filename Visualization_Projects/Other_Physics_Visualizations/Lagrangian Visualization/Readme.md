@@ -1,3 +1,5 @@
+# Lagrangian Visualization
+
 This project was created in the beginning of the first year of grad school in the Brown Physics Department.
 It was made to try to better understand the pronciple of minimal action.
 This was done by visualizing the energy surface made by lagrangians,
