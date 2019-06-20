@@ -1,4 +1,4 @@
-# the Trio Optimization Algorithm
+# The Trio Optimization Algorithm
 
 
 The Trio framework was created as a boosting framework for optimization algorithms.
