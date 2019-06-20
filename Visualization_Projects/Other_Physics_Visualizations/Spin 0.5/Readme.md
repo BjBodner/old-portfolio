@@ -1,3 +1,5 @@
+# Spin 0.5
+
 Folding a ring in on itself
 
 This mimcs the reaction of a spin 1/2 to rotations
