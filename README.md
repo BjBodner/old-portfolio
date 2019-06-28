@@ -10,6 +10,7 @@ These are projects which I have worked on over the past few years, which fall in
 
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Swimming%20AI%20GIF2.gif width="350" title="hover text">
   
+   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="350" title="hover text">
 </p>
 
 # Machine Learning and Optimization Algorithms:
