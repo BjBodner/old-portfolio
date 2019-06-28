@@ -26,7 +26,7 @@ This project was mostly inspired by the amazing nanostructures which can be foun
 These nanostructures were created over millions of years through the process of natural selection, which is just one kind of optimization algorithm. In this project I attempted to generate similar optical behaviors using a different optimization algorithm, in a simulated environment. This allowed for testing of the "fitness" of the nanostructures, within the metamaterial, in fractions of seconds, rather than in days/months.
 
 The nanostructures in the metamaterial were optimized to generate two different optical behaviors within the simulated environment.
-1. To focus the incoming light waves into a small region of space – i.e. to creating a focusing lens.
+1. To focus the incoming light waves into a small region of space – i.e. to create a focusing lens.
 
 <p align="center">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="400" title="Designing Metamaterials using genetic algorithms">
