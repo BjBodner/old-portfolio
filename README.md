@@ -11,7 +11,7 @@
    
    
 <p align="center">
-   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="300" title="Snapshot Of ATM Optimization Algorithm">
+   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="300" title="Snapshot Of ATM Optimization Algorithm - in pursuit of the global minimum">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Images/Conformal-Transormation_of_1_z_to_the_Power_Alpha.JPG
 width="380" title="Visualization of conformal transformation">
 </p>
