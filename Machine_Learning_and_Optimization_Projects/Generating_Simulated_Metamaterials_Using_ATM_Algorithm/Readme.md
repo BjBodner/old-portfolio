@@ -32,10 +32,16 @@ The nanostructures in the metamaterial were optimized to generate two different 
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="400" title="Designing Metamaterials using genetic algorithms">
 </p>
 
+
+
 2. To create a pand-pass filter - which transfer specific bands of frequencies.
 <p align="center">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Filtering_Picture.JPG width="400" title="Generating Swimming Motions using genetic algortihms">
 </p>
+
+As can be seen by the power spectrun in 9-1 and 10-1, the algorithm succeeds and decreasing the amplitudes of most frequencies higher than 20 (1/time) and manages to increase the amplitude of those at frequencies lower that 20. This indicates that it successfully created structures in the metamaterial which reflect shorter wavelength waves yet transmit the longer ones. 
+In 9,10-b we can see the generated nano-structures in the metamaterial. The black regions indicate areas which have the maximal refractive index of 3, and the light-yellow mark the regions with a refractive index of 1, which indicates a hole in the metamaterial. 
+
 
 
 
