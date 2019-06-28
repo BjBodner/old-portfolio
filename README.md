@@ -13,7 +13,7 @@ These are projects which I have worked on over the past few years, which fall in
 <p align="center">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="300" title="Snapshot Of ATM Optimization Algorithm">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Images/Conformal-Transormation_of_1_z_to_the_Power_Alpha.JPG
-width="370" title="Visualization of conformal transformation">
+width="390" title="Visualization of conformal transformation">
 </p>
 
 # Machine Learning and Optimization Algorithms:
