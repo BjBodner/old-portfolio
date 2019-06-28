@@ -6,10 +6,10 @@ This project was created during my first semester at Brown, as a final project i
 This goal of this project was to try to a representation of the lagrangians which govern behavior of a 
 few physical systems, using neural networks.  The approach I took was to use multiple observations of the states of a physical system, then to use this information to learn a lagrangian which generates the observed behavior. 
 
-Methodology
+## Methodology
 First, I generated data over constant time intervals, using a simulation of the well-studied lagrangians, such as a 1D harmonic oscillator and a particle in a central force (like the earth around the sun). Then the derivatives of these lagrangians were taken, this process generates the equations of motion of the particles in these systems. More specifically, this allowed us to calculate the changes in the states of the particles, throughout the different time steps.  In our case these changes we the changes in the particles’ position and momenta.
 
-
+## Training
 Once the data was created, a complex valued neural network was trained to input current state of the system and output a single real valued number, which is exactly what the lagrangian does. 
 After this step, the derivative of this function was taken, in order to predict the changes in the state
 of the system (positions and momenta). The cost function used to train this system, was the 
