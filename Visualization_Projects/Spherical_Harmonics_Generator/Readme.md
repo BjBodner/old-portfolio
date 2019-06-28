@@ -1,6 +1,14 @@
 # Spherical Harmonics Generator
 
 
+
+<p align="center">
+    <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet1.gif
+ width="350" title="Generating Swimming Motions using genetic algortihms">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet2.gif width="350" title="Designing Metamaterials using genetic algorithms">
+</p>
+
+
 This was made during my third year as an undergraduate student.
 It was made in an attempt to get a better understanding of the shapes and oscillations
 which are described by the mathematics of spherical harmonics.
@@ -17,6 +25,11 @@ user can choose between several different realizations of the oscialltions. Thes
 4. Bouncy Ball
 
 
+<p align="center">
+    <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet3.gif
+ width="350" title="Generating Swimming Motions using genetic algortihms">
+  
+  
 Run the file
 "Creating_Spherical_Harmonics.m"
 
