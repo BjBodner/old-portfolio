@@ -1,6 +1,6 @@
 <p align="center">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="300" title="Snapshot Of ATM Optimization Algorithm">
-   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/BBOB_20D.JPG width="300" title="Comparing ATM to other optimizers in the seperable functions section of the BBOB testbed">
+   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/BBOB_20D.JPG width="400" title="Comparing ATM to other optimizers in the seperable functions section of the BBOB testbed">
    
 
 
