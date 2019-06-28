@@ -1,5 +1,18 @@
 # Learning to Swim and Eat Using Genetic Algorithms and Model Based Reinforcement Learning
 
+
+
+
+<p align="center">
+    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_to_Swim_and_Eat_Using_GA_and_Model_Based_RL/Learning_To_Swim_And_Eat_Snippet1.gif width="350" title="Generating Swimming Motions using genetic algortihms">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_to_Swim_and_Eat_Using_GA_and_Model_Based_RL/Learning_To_Swim_And_Eat_Snippet2.gif width="350" title="Designing Metamaterials using genetic algorithms">
+</p>
+   
+<p align="center">   
+   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_to_Swim_and_Eat_Using_GA_and_Model_Based_RL/Learning_To_Swim_And_Eat_Snippet3.gif width="350" title="Designing Metamaterials using genetic algorithms">
+</p>
+     
+   
 This project was made in an attempt to explore genetic algorithms and model-based reinforcement learning and apply them to a fun side project. 
 In This project I created a simulated aquatic environment which allows tiny stick figures to swim in it. The swimming motions they create can generate both forward movement (in all 2D directions) and torque as well, giving the stick figures the ability to rotate themselves. 
 In this experiment, two different motions were created by defining the fitness function for the genetic algorithm. One move was optimized to maximize rotation and minimize forward motion and the other to maximize forward motion and minimize rotation.
