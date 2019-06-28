@@ -5,10 +5,10 @@ These are projects which I have worked on over the past few years, which fall in
 2. Visualization of physical and mathematical phenomena
 
 
-<p align="center">
+<p align="left">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Swimming%20AI%20GIF2.gif width="350" title="Generating Swimming Motions using genetic algortihms">
   
-<p align="center">
+<p align="right">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Incoming_Light2.jpg width="350" title="Designing Metamaterials using genetic algorithms">
    </p>
    
