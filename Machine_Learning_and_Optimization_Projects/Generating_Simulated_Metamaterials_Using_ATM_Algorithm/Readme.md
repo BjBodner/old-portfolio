@@ -1,13 +1,10 @@
 
 # Generating_Simulated_Metamaterials_Using_ATM_Algorithm
 
-
-
-
-
-
-
-
+<p align="center">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Generating_Simulated_Metamaterials_Using_ATM_Algorithm/MetaMaterials.gif
+width="350" title="Designing Metamaterials using genetic algorithms">
+</p>
 
 
 
@@ -29,6 +26,7 @@ of the nano-structures in fractions of seconds rather than in days/months.
 In this project we attempted to create structures in the dielectric which generate two different 
 behaviours in the simulated enviournment.
 1. Focusing the incomming lightwaves into a small region of space - creating a lense.
+
 <p align="center">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="350" title="Designing Metamaterials using genetic algorithms">
 </p>
