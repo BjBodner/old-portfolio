@@ -42,7 +42,7 @@ of the dielectric grid.
 
 References:
 -
-[7]  Vinodkumar Saranathana,b, Chinedum O. Osujib,c,d, Simon G. J. Mochrieb,d,e, Heeso Nohb,d, Suresh Narayananf, Alec Sandyf, Eric R. Dufresneb,d,e,g, and Richard O. Pru 
+[1]  Vinodkumar Saranathana,b, Chinedum O. Osujib,c,d, Simon G. J. Mochrieb,d,e, Heeso Nohb,d, Suresh Narayananf, Alec Sandyf, Eric R. Dufresneb,d,e,g, and Richard O. Pru 
 “Structure, function, and self-assembly of single network gyroid (I4132) photonic crystals in butterfly wing scales”, 11676–11681 ∣ PNAS ∣ June 29, 2010 ∣ vol. 107 ∣ no. 2
 
 
