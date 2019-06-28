@@ -18,7 +18,7 @@ The projects in this portfolio are projects which I have worked on over the past
 2. Visualization of physical and mathematical phenomena
 
 
-# Machine Learning and Optimization Algorithms:
+## Machine Learning and Optimization Algorithms:
 
 Overview:
 
@@ -52,7 +52,7 @@ Here is a list of the machine learning and optimization projects which can be fo
 
 
 
-# Visualization Projects:
+## Visualization Projects:
 
 Overview:
 These visualization projects are mostly focused on phenomena in physics. In most of these projects equations which generate these behaviors are well defined, but their visual representation is not always immediately obvious (especially when learning them for the first time). These projects were mostly made while I was studying these topics, during my undergraduate courses, in an attempt to gain a more intuitive understanding of them. Though I initially made them for myself, they have been very helpful in teaching these concepts to students during my private tutoring sessions.
