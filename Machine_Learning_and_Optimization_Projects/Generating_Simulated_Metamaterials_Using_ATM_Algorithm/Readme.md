@@ -13,7 +13,11 @@ This project was created during my second semester at Brown, as part of the fina
 The project consists of a numerical PDE simulation of the propagation of electromagnetic waves through a 2D system.
 This 2D system consisted of an antenna which generated the EM waves, perfectly reflecting walls, and a partially transparent dielectric material. The dielectric material in this experiment consisted of a 2D grid of different refractive indexes, which is the metamaterial we are trying to design. The goal of the project was to show that it is possible to optimize the refractive indices within this grid in such a way that generates certain specified optical behaviors. 
 
-This project was mostly inspired by the amazing nanostructures which can be found in butterfly wings, that can reflect very specific wavelengths of light (Image taken from Saranathan et al.).  
+This project was mostly inspired by the amazing nanostructures which can be found in butterfly wings, that can reflect very specific wavelengths of light (Images taken from [1] and [2]).  
+<p align="center">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="400" title="Designing Metamaterials using genetic algorithms">
+</p>
+
 <p align="center">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="400" title="Designing Metamaterials using genetic algorithms">
 </p>
@@ -45,4 +49,9 @@ References:
 [1]  Vinodkumar Saranathana,b, Chinedum O. Osujib,c,d, Simon G. J. Mochrieb,d,e, Heeso Nohb,d, Suresh Narayananf, Alec Sandyf, Eric R. Dufresneb,d,e,g, and Richard O. Pru 
 “Structure, function, and self-assembly of single network gyroid (I4132) photonic crystals in butterfly wing scales”, 11676–11681 ∣ PNAS ∣ June 29, 2010 ∣ vol. 107 ∣ no. 2
 
+
+[2] 
+Shichao Niu, Bo Li, Zhengzhi Mu, Meng Yang, Junqiu Zhang, Zhiwu Han, Luquan Ren 
+"Excellent Structure-Based Multifunction of Morpho Butterfly Wings:
+A Review ". Journal of Bionic Engineering 12 (2015) 170–189 
 
