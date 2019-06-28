@@ -50,7 +50,7 @@ In 9,10-b we can see the generated nanostructures in the metamaterial. The black
 
 
 - 
-To Summarize, the optimization algorithm was very successful at both tasks. However, for the filtering task, this was successful in this
+To summarize, the optimization algorithm was very successful at both tasks. However, for the filtering task, this was successful in this
 optimization task for certain long wavelength bands of frequencies. This was likely due to the finite resolution
 of the dielectric grid.
 
