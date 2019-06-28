@@ -5,6 +5,8 @@
 
 <p align="center">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_to_Swim_and_Eat_Using_GA_and_Model_Based_RL/Learning_To_Swim_And_Eat_Snippet1.gif width="350" title="Generating Swimming Motions using genetic algortihms">
+    
+<p align="center">     
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_to_Swim_and_Eat_Using_GA_and_Model_Based_RL/Learning_To_Swim_And_Eat_Snippet2.gif width="350" title="Designing Metamaterials using genetic algorithms">
 </p>
    
