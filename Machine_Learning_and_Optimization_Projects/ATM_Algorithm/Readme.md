@@ -12,7 +12,8 @@ The algorithm is based of evolutionary strategies for optimization, with additio
 To try it out, download the files and see example code snippit titled "Example_Of_Calling_Adaptive_To_Mode_Optimizer.py"
 to see how to use this optimization algorithm.
 
-As of June 2019, the algorithm is still in stages of addaptation to the deep learning frameworks, PyTorch and Tensorflow. 
+As of June 2019, the algorithm is still in stages of adaptation to the deep learning frameworks, PyTorch and Tensorflow. 
+We will release new versions throughout the year.
 
 
 ## Abstract:
