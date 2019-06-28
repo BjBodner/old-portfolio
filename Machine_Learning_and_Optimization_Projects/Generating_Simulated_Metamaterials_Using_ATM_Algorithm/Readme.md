@@ -15,11 +15,11 @@ This 2D system consisted of an antenna which generated the EM waves, perfectly r
 
 This project was mostly inspired by the amazing nanostructures which can be found in butterfly wings, that can reflect very specific wavelengths of light (Images taken from [1] and [2]).  
 <p align="center">
-  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="400" title="Designing Metamaterials using genetic algorithms">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Generating_Simulated_Metamaterials_Using_ATM_Algorithm/Butterfly_Wings.JPGwidth="400" title="Designing Metamaterials using genetic algorithms">
 </p>
 
 <p align="center">
-  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="400" title="Designing Metamaterials using genetic algorithms">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Generating_Simulated_Metamaterials_Using_ATM_Algorithm/Image%20Of%20Nano%20Structures.JPGwidth="400" title="Designing Metamaterials using genetic algorithms">
 </p>
 
 
