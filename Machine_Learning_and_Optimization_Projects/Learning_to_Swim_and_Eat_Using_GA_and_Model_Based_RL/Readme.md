@@ -19,7 +19,7 @@ After the movements were generated in this manner, we defined them as "actions" 
 The states for the model were defined using the distance between the body and the food,
 the direction the food is at, and the orientation of the body relative to the direction to the food.
 
-## Going to the food  
+## Swimming to the food  
 <p align="left">   
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_to_Swim_and_Eat_Using_GA_and_Model_Based_RL/Learning_To_Swim_And_Eat_Snippet3.gif width="350" title="Designing Metamaterials using genetic algorithms">
 </p>
