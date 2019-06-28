@@ -1,8 +1,5 @@
 # Benjamin Jacob Bodner - Portfolio
 
-These are projects which I have worked on over the past few years, which fall into two main interests of mine:
-1. Machine learning and optimization algorithms
-2. Visualization of physical and mathematical phenomena
 
 
 <p align="center">
@@ -13,8 +10,14 @@ These are projects which I have worked on over the past few years, which fall in
 <p align="center">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="300" title="Snapshot Of ATM Optimization Algorithm">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Images/Conformal-Transormation_of_1_z_to_the_Power_Alpha.JPG
-width="390" title="Visualization of conformal transformation">
+width="380" title="Visualization of conformal transformation">
 </p>
+
+
+The projects in this portfolio are projects which I have worked on over the past few years, which fall into two main interests of mine:
+1. Machine learning and optimization algorithms
+2. Visualization of physical and mathematical phenomena
+
 
 # Machine Learning and Optimization Algorithms:
 
