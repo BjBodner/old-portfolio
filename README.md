@@ -13,7 +13,6 @@
 width="380" title="Visualization of conformal transformation">
 </p>
 
-
 The projects in this portfolio are projects which I have worked on over the past few years, which fall into two main interests of mine:
 1. Machine learning and optimization algorithms
 2. Visualization of physical and mathematical phenomena
@@ -23,37 +22,26 @@ The projects in this portfolio are projects which I have worked on over the past
 
 Overview:
 
-This section is a conglomerate of machine learning and optimization projects I have worked on over the past few years. 
-Which consists of both side projects and research projects, which often complemented each other. 
-They combine several custom made machine learning algorithms such as  DNNs, CNN, and Complex networks (Neural networks
-with complex valued weights, biases, and activation functions). As well as learning model parameters
-for model based Reenforcement learning, evolving movements with genetic algorithms, and learning
-the interaction parameters for the hamiltonian of a monte carlo markov chain simulation.(More on these later). 
-The projects were written in python and matlab languages, and some were written in both.
-Though many of these projects are made with hand-written algorithms, some use deep learning libraries
-Such as pytorch, tensorflow, and matlab pattern recognition module.
+This section presents various machine learning and optimization projects I have worked on over the past few years. 
+These consist of independent side projects and research projects, which often complemented each other. 
+These projects include several custom-made Complex valued neural networks (Neural networks with complex valued weights, biases, and activation functions), model-based Reinforcement learning, genetic algorithms, and methods for learning the interaction parameters for monte carlo markov chain simulations. (More on these later). 
+The projects were written in python and MATLAB languages and though many of these projects are consist of custom-made algorithms, some of them use deep learning libraries Such as PyTorch, Tensorflow.
 
-As for optimization my recent research (as of June 2019) has been focused on developing gradient-free optimization
-algorithms for high dimensional settings, such as those found in deep learning and physical science problems.
-Early implementations of these algorithms can be found here (Such as Guessing Game, Trio, Orchestra), 
-as well as the highly veristile ATM optimization algorithm which is currently in press, and is to be published in 
-the Proceeding to the 2019 Genetic and Evolutionary Computational Conference. The ATM algorithm is currently
-in the process of being addapted to the commonly used deep learning frameworks: PyTorch and Tensorflow.
-Some of these optimization algorithms have been applied to problems such as optimizing and ensamble
-of complex neural networks to classify simulated particle accelerator events which contain HIGGS particles, 
-learning lagrangians of physical systems and 
-learning non-structures inside metamaterials which generate desired optical properties.
+As for optimization, my research is currently focused on developing gradient-free optimization algorithms for high dimensional settings, such as those found in deep learning and physical science problems. 
+Early implementations of these algorithms can be found in this repository (Such as Guessing Game, Trio, Orchestra). This include the highly versatile ATM optimization algorithm, which is currently in press, and is to be published in the Proceeding to the 2019 Genetic and Evolutionary Computational Conference. The ATM algorithm is currently in the process of being adapted to the commonly used deep learning frameworks: PyTorch and Tensorflow. (As of June 2019).
+Some of these optimization algorithms have been applied to problems such as optimizing and ensemble
+of complex neural networks to classify simulated particle accelerator events which contain HIGGS particles, learning lagrangians of physical systems and learning metamaterial designs which generate desired optical properties.
 
 
-List of Machine learning and optimization projects:
+Here is a list of the machine learning and optimization projects which can be found in this repository:
 1. ATM Algorithm
 2. CNN Based Crypto TradeBot
 3. Complex Neural Networks Library
-4. Evolving Swimming Buggs in matlab
+4. Evolving Swimming Buggs in MATLAB
 5. Generating Simulated Metamaterials Using Genetic algorithms
 6. Guessing Game Optimization Algorithm
 7. Hamiltonian Learning for Monte Carlo Markov Chains
-8. Interacting Complex Netwroks - CERN Hackathon
+8. Interacting Complex Networks - CERN Hackathon
 9. Learning Lagrangians of physical systems
 10. Learning to swim and eat by evolving movements and actions
 11. Orchestra optimization algorithm
@@ -67,7 +55,8 @@ List of Machine learning and optimization projects:
 # Visualization Projects:
 
 Overview:
-These visualization project are mostly focused on phenomena in physics, where the equations are well defined but their visual representation is not always immediatelly obvious (especially when learning them for the first time). These project were mostly made while I was studying these topics, in my undergraduate courses. Though they were initially made in an attempt to understand the learned material in a more intuitive way, before my course examinations, they have been very useful in teaching these topics to students in private tutoring. The topics span a few topics in physics such as visualizing spherical harmonics, phonon dispersions relations, complex functions/domains and more. I hope you enjoy these project and that they will help create more intuitive understanding of the topics they focus on.
+These visualization projects are mostly focused on phenomena in physics. In most of these projects equations which generate these behaviors are well defined, but their visual representation is not always immediately obvious (especially when learning them for the first time). These projects were mostly made while I was studying these topics, during my undergraduate courses, in an attempt to gain a more intuitive understanding of them. Though I initially made them for myself, they have been very helpful in teaching these concepts to students during my private tutoring sessions.
+The topics span a few topics in physics such as visualizing spherical harmonics, phonon dispersions relations, complex functions/domains and more. I hope you enjoy these projects and that they will help to provide a better intuition about these topics.
 
 
 List of Machine learning and optimization projects:
@@ -81,3 +70,4 @@ List of Machine learning and optimization projects:
 8. Visualizing_Complex_Functions_and_Domains
 9. Visualizing_Gravitational_Waves
 10. Visualizing_Slime_Mold
+
