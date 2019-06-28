@@ -42,8 +42,4 @@ This project was very successful at both tasks. However, for the filtering task,
 optimization task for certain long wavelength bands of frequencies. This was likely due to the finite resolution
 of the dielectric grid.
 
-Videos of the performance of the "learned" filters can be found at:
-
-_____
-
 
