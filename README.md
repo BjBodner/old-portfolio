@@ -4,8 +4,11 @@
 
 <p align="center">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Swimming%20AI%20GIF2.gif width="350" title="Generating Swimming Motions using genetic algortihms">
-  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Incoming_Light2.jpg width="350" title="Designing Metamaterials using genetic algorithms">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Generating_Simulated_Metamaterials_Using_ATM_Algorithm/MetaMaterials.gif width="350" title="Designing Metamaterials using genetic algorithms">
 </p>
+   
+   
+   
    
 <p align="center">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="300" title="Snapshot Of ATM Optimization Algorithm">
