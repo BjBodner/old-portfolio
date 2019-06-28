@@ -1,5 +1,5 @@
 
-# Generating_Simulated_Metamaterials_Using_ATM_Algorithm
+# Generating Simulated Metamaterial Designs Using ATM Algorithm
 
 <p align="center">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Generating_Simulated_Metamaterials_Using_ATM_Algorithm/MetaMaterials.gif
