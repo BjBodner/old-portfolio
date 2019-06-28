@@ -9,7 +9,6 @@ These are projects which I have worked on over the past few years, which fall in
 
 <p align="center">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/BBOB_20D.JPG width="350" title="hover text">
-  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/BBOB_20D.JPG width="350" alt="accessibility text">
 </p>
 
 # Machine Learning and Optimization Algorithms:
