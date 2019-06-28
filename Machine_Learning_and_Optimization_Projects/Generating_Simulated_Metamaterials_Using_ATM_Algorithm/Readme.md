@@ -1,6 +1,19 @@
 
 # Generating_Simulated_Metamaterials_Using_ATM_Algorithm
 
+
+
+
+
+
+
+<p align="center">
+    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Filtering_Picture.JPG width="350" title="Generating Swimming Motions using genetic algortihms">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPGwidth="350" title="Designing Metamaterials using genetic algorithms">
+</p>
+
+
+
 This project was created during my second semester at Brown, as part of a final project in the electromagnetism course.
 
 The project consists of a numerical PDE simulation of the propogation of electromagnetic waves through a 2D system.
