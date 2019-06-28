@@ -5,15 +5,15 @@ These are projects which I have worked on over the past few years, which fall in
 2. Visualization of physical and mathematical phenomena
 
 
-<p align="left">
+<p align="center">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Swimming%20AI%20GIF2.gif width="350" title="Generating Swimming Motions using genetic algortihms">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Incoming_Light2.jpg width="350" title="Designing Metamaterials using genetic algorithms">
 </p>
    
-<p align="left">
+<p align="center">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="300" title="Snapshot Of ATM Optimization Algorithm">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Images/Conformal-Transormation_of_1_z_to_the_Power_Alpha.JPG
-width="350" title="Visualization of conformal transformation">
+width="370" title="Visualization of conformal transformation">
 </p>
 
 # Machine Learning and Optimization Algorithms:
