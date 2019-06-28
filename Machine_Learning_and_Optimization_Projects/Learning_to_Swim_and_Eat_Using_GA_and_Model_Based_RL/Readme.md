@@ -20,7 +20,7 @@ The states for the model were defined using the distance between the body and th
 the direction the food is at, and the orientation of the body relative to the direction to the food.
 
 ## Going to the food  
-<p align="center">   
+<p align="left">   
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_to_Swim_and_Eat_Using_GA_and_Model_Based_RL/Learning_To_Swim_And_Eat_Snippet3.gif width="350" title="Designing Metamaterials using genetic algorithms">
 </p>
      
@@ -28,6 +28,6 @@ the direction the food is at, and the orientation of the body relative to the di
 Using a probabilistic action selection model - these "Bugs" learned to swim towards the food and maximize the amount of food they caught. The learning was quite successful in some cases, 
 and the bugs learned to go straight towards the food. However, this did not always work, and occasionally the learning stagnated. Especially when the bugs were very far from the food, and the absolute direction which the "Bug" should swim, did not change enough for moving between states.
 
-<p align="center">
+<p align="right">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_to_Swim_and_Eat_Using_GA_and_Model_Based_RL/Learning_To_Swim_And_Eat_Snippet1.gif width="350" title="Generating Swimming Motions using genetic algortihms">
     
