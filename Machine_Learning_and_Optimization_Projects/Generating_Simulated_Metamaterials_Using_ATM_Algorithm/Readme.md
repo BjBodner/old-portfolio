@@ -25,8 +25,9 @@ This project was mostly inspired by the amazing nanostructures which can be foun
 
 These nanostructures were created over millions of years through the process of natural selection, which is just one kind of optimization algorithm. In this project I attempted to generate similar optical behaviors using a different optimization algorithm (the ATM algorithm), in a simulated environment. This allowed for testing of the "fitness" of the nanostructures, within the metamaterial, in fractions of seconds, rather than in days/months.
 
-The nanostructures in the metamaterial were optimized to generate two different optical behaviors within the simulated environment.
-## 1. To focus the incoming light waves into a small region of space – i.e. to create a focusing lens.
+The nanostructures in the metamaterial were optimized to generate two different optical behaviors within the simulated environment:
+
+## 1. Focusing incoming light waves into a small region of space – i.e. to create a focusing lens.
 
 <p align="center">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="400" title="Designing Metamaterials using genetic algorithms">
@@ -38,7 +39,7 @@ In 9-10-c we can see a picture of the metamaterials' interaction with the incomi
 
 
 
-## 2. To create a band-pass filter - which transfer specific bands of frequencies.
+## 2. Creating a band-pass filter - which only transmits specific frequency bands.
 <p align="center">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Filtering_Picture.JPG width="400" title="Generating Swimming Motions using genetic algortihms">
 </p>
