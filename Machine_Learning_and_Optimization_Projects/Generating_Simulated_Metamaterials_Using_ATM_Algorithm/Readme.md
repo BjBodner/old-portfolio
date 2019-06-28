@@ -41,23 +41,7 @@ of the dielectric grid.
 
 
 References:
-[1] Christian Wieners 2008, “A short introduction to Numerical Methods for Maxwell’s Equations”.
-http://www.mathematik.uni-karlsruhe.de/user/~wieners/MaxwellCourse.pdf
-Universität Karlsruhe (TH) Angewandte und Numerische Mathematik, Exercises for the Oberwolfach Course 2008.
-
-[2] Helen Ghiradella , Daniel Aneshansley, Thomas Eisner ,Robert E. Silberglied ,Howard E. Hinton  1972.
-“Ultraviolet Reflection of a Male Butterfly: Interference Color Caused by Thin-Layer Elaboration of Wing Scales”. SCIENCE, VOL. 178, 15 DEC MENBER 1972
-
-[3] K. Michielsen and D. G. Stavenga 2008, “Gyroid structures in butterﬂy wing scales : biological photonic crystals”, J R Soc Interface. 2008 Jan 6; 5(18): 85–94.
-
-[4] Daniel S. Weile and Eric Michielssen 1997, “Genetic Algorithm Optimization Applied to Electromagnetics: A Review”. IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, VOL. 45, NO. 3, MARCH 1997
-
-[5] Yongwen Tan, Jiajun Gu,* Xining Zang, Wei Xu, Kaicheng Shi, Linhua Xu, and Di Zhang. 
-“Versatile Fabrication of Intact Three-Dimensional Metallic Butterfly Wing Scales with Hierarchical Sub-micrometer Structures”. Angew. Chem. 2011, 123, 8457–8461
-
-[6] Benjamin Bodner
-“Benchmarking the ATM algorithm on the BBOB 2009 noiseless testbed”. Proceedings to the Genetic and Evolutionary conference (GECCO 2019) May 2019, Prague, Czech republic 2019.
-
+-
 [7]  Vinodkumar Saranathana,b, Chinedum O. Osujib,c,d, Simon G. J. Mochrieb,d,e, Heeso Nohb,d, Suresh Narayananf, Alec Sandyf, Eric R. Dufresneb,d,e,g, and Richard O. Pru 
 “Structure, function, and self-assembly of single network gyroid (I4132) photonic crystals in butterfly wing scales”, 11676–11681 ∣ PNAS ∣ June 29, 2010 ∣ vol. 107 ∣ no. 2
 
