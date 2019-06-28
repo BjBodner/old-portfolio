@@ -7,10 +7,7 @@
 
 
 
-<p align="center">
-    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Filtering_Picture.JPG width="350" title="Generating Swimming Motions using genetic algortihms">
-  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="350" title="Designing Metamaterials using genetic algorithms">
-</p>
+
 
 
 
@@ -32,7 +29,15 @@ of the nano-structures in fractions of seconds rather than in days/months.
 In this project we attempted to create structures in the dielectric which generate two different 
 behaviours in the simulated enviournment.
 1. Focusing the incomming lightwaves into a small region of space - creating a lense.
+<p align="center">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPG width="350" title="Designing Metamaterials using genetic algorithms">
+</p>
+
 2. Creating a Band-Pass Filter - to tranfer specific bands of frequencies.
+<p align="center">
+    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Filtering_Picture.JPG width="350" title="Generating Swimming Motions using genetic algortihms">
+</p>
+
 
 
 This project was very successful at both tasks. However, for the filtering task, this was successful in this
