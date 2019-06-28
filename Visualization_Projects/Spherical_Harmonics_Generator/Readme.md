@@ -5,7 +5,7 @@
 <p align="center">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet1.gif
  width="350" title="Generating Swimming Motions using genetic algortihms">
-  <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet2.gif width="350" title="Designing Metamaterials using genetic algorithms">
+  <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet2_1.gif width="350" title="Designing Metamaterials using genetic algorithms">
 </p>
 
 
