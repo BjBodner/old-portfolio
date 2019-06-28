@@ -2,14 +2,14 @@
 
 <p align="center">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/ATM_Optimization_Snapshot.JPG width="300" title="Snapshot Of ATM Optimization Algorithm - in pursuit of the global minimum">
-   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/BBOB_20D.JPG width="400" title="Comparing ATM to other optimizers in the seperable functions section of the BBOB testbed">
+   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/BBOB_20D.JPG width="400" title="Comparing ATM to other optimizers in the separable functions section of the BBOB testbed">
    
 ## Intro: 
-This is an gradient-free optimization algorithm designed for high dimensional problems such as optimizing deep neural networks.
-The algorithm is based of evolutionary strategies for optimization, with additional add-on which allow it to rapidly transverse large distances in the parameter search space. It has a built in metalearning system, to for automatic addpatation of the hyperparamers to the problem at hand. It is architecture agnostic and does not require backpropgation as part of the optimization process, which can allow for more freedom in architecture design of neural network models. 
+This is a gradient-free optimization algorithm designed for high dimensional problems such as optimizing deep neural networks.
+The algorithm is based of evolutionary strategies for optimization, with additional add-on which allow it to rapidly transverse large distances in the parameter search space. It has a built-in meta-learning system, to for automatic adaptation of the hyperparameters to the problem at hand. It is architecture agnostic and does not require backpropagation as part of the optimization process, which can allow for more freedom in architecture design of neural network models. 
 
 
-To try it out, download the files and see example code snippit titled "Example_Of_Calling_Adaptive_To_Mode_Optimizer.py"
+To try it out, download the files and see example code snippet titled "Example_Of_Calling_Adaptive_To_Mode_Optimizer.py"
 to see how to use this optimization algorithm.
 
 As of June 2019, the algorithm is still in stages of adaptation to the deep learning frameworks, PyTorch and Tensorflow. 
