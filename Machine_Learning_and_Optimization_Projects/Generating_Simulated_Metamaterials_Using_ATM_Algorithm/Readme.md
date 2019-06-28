@@ -9,6 +9,8 @@
 
 <p align="center">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Filtering_Picture.JPG width="350" title="Generating Swimming Motions using genetic algortihms">
+    
+<p align="center">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Focusing_Picture.JPGwidth="350" title="Designing Metamaterials using genetic algorithms">
 </p>
 
