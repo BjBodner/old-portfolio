@@ -6,7 +6,7 @@
 
 <p align="center">
    <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Learning_Lagrangians_Of_Physical_Systems/All_Together.png width="300" title="Snapshot Of ATM Optimization Algorithm - in pursuit of the global minimum">
-   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Learning_Lagrangians_Train_Erro.JPG width="300" title="Comparing ATM to other optimizers in the separable functions section of the BBOB testbed">
+   <img src=https://github.com/BjBodner/Portfolio/blob/master/Machine_Learning_and_Optimization_Projects/Images/Learning_Lagrangians_Train_Erro.JPG width="400" title="Comparing ATM to other optimizers in the separable functions section of the BBOB testbed">
   
   
   
