@@ -7,7 +7,7 @@
  width="350" title="Radial Waves with transparent mesh, for reference">
 
 
-
+## Intro 
 This project was made during my third year as an undergraduate student.
 It was made to get a better understanding of the shapes and oscillations
 which are described by the mathematics of spherical harmonics.
@@ -24,6 +24,7 @@ user can choose between several different realizations of the oscillations. Thes
 <p align="left">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet2_1.gif width="350" title="Radial waves – bright colors indicate compression">
 </p>
+
 ---
 2. Spherical Wave function:
 
