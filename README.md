@@ -38,7 +38,7 @@ of complex neural networks to classify simulated particle accelerator events whi
 
 Here is a list of the machine learning and optimization projects which can be found in this repository:
 1. ATM Algorithm
-2. CNN Based Crypto TradeBot
+2. Computer Vision Based Based Crypto TradeBot
 3. Complex Neural Networks Library
 4. Evolving Swimming Buggs in MATLAB
 5. Generating Simulated Metamaterials Using Genetic algorithms
@@ -47,11 +47,10 @@ Here is a list of the machine learning and optimization projects which can be fo
 8. Interacting Complex Networks - CERN Hackathon
 9. Learning Lagrangians of physical systems
 10. Learning to swim and eat by evolving movements and actions
-11. Orchestra optimization algorithm
-12. Pinball Optimization Algorithm
-13. PSO implementation for different problems
-14. Training a DNN on mnist with Pinball
-15. Trio Optimization algorithm
+11. Pinball Optimization Algorithm
+12. PSO implementations for different problems
+13. Training a DNN on mnist with Pinball
+14. Trio Optimization algorithm
 
 
 
@@ -66,11 +65,10 @@ List of Machine learning and optimization projects:
 1. 2D Surface Waves
 2. Lagrangian Visualization
 3. Metal_Superconductor_Tunnel_Junction
-4. Nano-Cables-Double_Check_This
-5. Phonon_Dispersion_relation
-6. Spherical_Harmonics_Generator
-7. Spin 0.5
-8. Visualizing_Complex_Functions_and_Domains
-9. Visualizing_Gravitational_Waves
-10. Visualizing_Slime_Mold
+4. Phonon_Dispersion_relation
+5. Spherical_Harmonics_Generator
+6. Spin 0.5
+7. Visualizing_Complex_Functions_and_Domains
+8. Visualizing_Gravitational_Waves
+9. Visualizing_Slime_Mold
 
