@@ -24,6 +24,12 @@ user can choose between several different realizations of the oscialltions. Thes
 </p>
 
 2. Spherical Wave function
+
+<p align="center">
+    <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Spherical_Wave_Function.gif
+ width="350" title="Generating Swimming Motions using genetic algortihms">
+
+
 3. Charge Density Waves
 <p align="center">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet3.gif
