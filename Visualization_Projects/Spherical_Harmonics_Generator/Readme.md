@@ -48,16 +48,18 @@ user can choose between several different realizations of the oscillations. Thes
 
 ## How to use this program
 To create your own simulation
-1.	Run the file
+1.	Open and run the script from within MATLAB (Using the MATLAB "Editor" tab)
 "Creating_Spherical_Harmonics.m"
 
-2.	Select the wave numbers you wish to generate
+2.	Select the wave numbers you wish to generate.
+
 3.	After this selection, a short animation is displayed of the selected realization, 
 oscillating with the chosen spherical harmonics.
 (There is also an option spherical mesh to provide a reference radius, for radial oscillations
 and at the end the user can choose to save the video to their computer.)
 
 4.	When the animation has finished running, you can save it as a video in the folder you ran the code from. 
+
 5.	If you do not wish to save the video you can make a new animation with new wavenumbers and new realizations of the waves.
 Hope you enjoy!
 ---
