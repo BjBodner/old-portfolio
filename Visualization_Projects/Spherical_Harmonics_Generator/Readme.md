@@ -19,25 +19,28 @@ This Matlab based program comes with a GUI, which lets the user choose the waven
 that generate the different spherical harmonics. After the spherical harmonics are generated the
 user can choose between several different realizations of the oscialltions. These include:
 
-1. Radial Waves
+1. Radial Waves:
+-
 <p align="left">
   <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet2_1.gif width="350" title="Designing Metamaterials using genetic algorithms">
 </p>
 
-2. Spherical Wave function
-
+2. Spherical Wave function:
+-
 <p align="right">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Spherical_Wave_Function.gif
  width="350" title="Generating Swimming Motions using genetic algortihms">
 
 
-3. Charge Density Waves
+3. Charge Density Waves:
+-
 <p align="left">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Video_Snippet3.gif
  width="350" title="Generating Swimming Motions using genetic algortihms">
   
   
-4. Bouncy Ball
+4. Bouncy Ball:
+-
 <p align="right">
     <img src=https://github.com/BjBodner/Portfolio/blob/master/Visualization_Projects/Spherical_Harmonics_Generator/Bouncy_Ball.gif
  width="350" title="Generating Swimming Motions using genetic algortihms">
