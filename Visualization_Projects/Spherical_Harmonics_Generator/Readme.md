@@ -18,6 +18,8 @@ spherical coordinate systems.
 This Matlab based program comes with a GUI, which lets the user choose the wavenumbers
 that generate the different spherical harmonics. After the spherical harmonics are generated the
 user can choose between several different realizations of the oscialltions. These include:
+
+
 ---
 1. Radial Waves:
 
